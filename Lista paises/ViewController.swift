@@ -12,7 +12,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
     // MARK: - Variables
     @IBOutlet weak var tableview: UITableView!
     
-    let paises = ["Colombia", "Perú", "Brasil", "Ecuador", "Bolivia", "Estados Unidos"] // Array String
+    let paises = ["Colombia", "Perú", "Brasil", "Ecuador", "Bolivia", "Estados Unidos", "Alemania"] // Array String
     
     // MARK: - Metodos Ciclo de Vida
     override func viewDidLoad() {
